@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Johan Sanneblad's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 2253, Total Commits  (last year) : 3356, Total PRs: 58, Total Issues: 14, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 2255, Total Commits  (last year) : 3358, Total PRs: 58, Total Issues: 14, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.28776933120297;
+        stroke-dashoffset: 66.2793701019689;
       }
     }
   
